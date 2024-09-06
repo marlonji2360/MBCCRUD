@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\source\\repos\\MVCCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6C3D2B-A8C3-4680-A5D0-19EAE8EA133D}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\marlo\\source\\repos\\mvccrud\\mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6C3D2B-A8C3-4680-A5D0-19EAE8EA133D}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6C3D2B-A8C3-4680-A5D0-19EAE8EA133D}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\marlo\\source\\repos\\mvccrud\\mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6C3D2B-A8C3-4680-A5D0-19EAE8EA133D}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\MVCCRUD\\MVCCRUD\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\MVCCRUD\\MVCCRUD\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:17:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marlo\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T20:17:37.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
